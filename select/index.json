@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "気分上々↑↑",
+  "base_artist": "mihimaru GT",
+  "createdAt": "2025-12-23T14:55:41.613424Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "気分上々↑↑",
+      "artist": "mihimaru GT",
+      "has_synced": true,
+      "path": "select/01_気分上々↑↑_mihimaru_GT.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "気分上々↑↑",
+      "artist": "すとぷり",
+      "has_synced": true,
+      "path": "select/02_気分上々↑↑_すとぷり.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "気分上々↑↑",
+      "artist": "Happy Around!",
+      "has_synced": true,
+      "path": "select/03_気分上々↑↑_Happy_Around!.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "気分上々↑↑",
+      "artist": "Kuroneko",
+      "has_synced": true,
+      "path": "select/04_気分上々↑↑_Kuroneko.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "気分上々↑↑",
+      "artist": "EIKO",
+      "has_synced": true,
+      "path": "select/05_気分上々↑↑_EIKO.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "気分上々↑↑",
+      "artist": "96猫",
+      "has_synced": true,
+      "path": "select/06_気分上々↑↑_96猫.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "気分上々↑↑",
+      "artist": "Utako Suzuka",
+      "has_synced": true,
+      "path": "select/07_気分上々↑↑_Utako_Suzuka.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "気分上々↑↑",
+      "artist": "mihimaru GT",
+      "has_synced": true,
+      "path": "select/08_気分上々↑↑_mihimaru_GT.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "気分上々↑↑ at CREAM PUFF LIVE 3(Cover)",
+      "artist": "Harusaruhi",
+      "has_synced": true,
+      "path": "select/09_気分上々↑↑_at_CREAM_PUFF_LIVE_3(Cover)_Harusaruhi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "気分上々↑↑",
+      "artist": "mihimaru GT",
+      "has_synced": false,
+      "path": "select/pl_01_気分上々↑↑_mihimaru_GT.txt"
+    }
+  ]
+}
